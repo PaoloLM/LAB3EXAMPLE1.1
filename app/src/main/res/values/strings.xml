@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LAB3EXAMPLE</string>
+    <string name="custom_call">Llamar</string>
+    <string name="custom_location">Ubicar</string>
+    <string name="custom_web">Navegar</string>
+    <string name="custom_camera">Capturar Imagen</string>
+    <string name="choose_title">Elegir Aplicacion</string>
+</resources>
